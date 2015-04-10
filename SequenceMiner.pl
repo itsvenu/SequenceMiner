@@ -6,7 +6,7 @@ use warnings;
 use LWP::Simple;
 
 unless ($#ARGV==1){
-        print "USAGE: perl download.pl <database> <id>\n\n";
+        print "USAGE: perl SequenceMiner.pl <database> <id>\n\n";
 	print "		Databases	    	 Use as		Example\n";
 	print "		protein Data Bank\t pdb\t	1aap\n";
 	print "		PFAM		 \t pfam		PF00406\n";
