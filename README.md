@@ -10,7 +10,7 @@ UNIPROT(http://www.uniprot.org/) and retrieves the data with a valid id.
 
 $ perl SequenceMiner.pl 
 
-USAGE: perl SequenceMiner.pl <database> <id>
+USAGE: perl SequenceMiner.pl database id
 
 		Databases	    	 Use as		Example
 		protein Data Bank	 pdb		1aap
