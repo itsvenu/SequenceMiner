@@ -14,6 +14,7 @@ USAGE: perl SequenceMiner.pl database id
 
 		Databases	    	 Use as		Example
 		protein Data Bank	 pdb		1aap
+		PDB fasta files		 pdb-fasta	5pti
 		PFAM		 	     pfam		PF00406
 		RFAM		 	     rfam		RF00406
 		EMBL nt		 	     embl/ebi	CN000065
